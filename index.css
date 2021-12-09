@@ -1,0 +1,161 @@
+header{
+    background-color:whitesmoke;
+    padding: 10px 20px;
+    margin: 0px;
+   
+}
+#int{
+    text-decoration-color: greenyellow;
+}
+nav{
+    text-transform: uppercase;
+}
+a:link{
+    text-decoration: none;
+    padding: 4px 20px;
+    float: right;
+     
+}
+
+a:hover{
+    background-color: rgb(193, 255, 47);
+}
+
+#in-1{
+    float: right;
+    right: 0px;
+    background-color: #e67e22;
+    width: 8%;
+    height: 8%;
+    border-radius: 25px;
+}
+.container{
+    background-color: #f5deb3;
+   padding: 10px 10px;
+   margin-top: 10px;
+   overflow: hidden;
+}
+
+.main-content{
+    margin: 0px;
+    padding: 10px 10px;
+    background-color: lightsalmon;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.left-side{
+margin: 25px;
+padding: 15px;
+font-family: sans-serif;
+}
+.r-side{
+    margin: 10px;
+    padding: 5px;
+    padding-left: 90px;
+}
+
+.left-con{
+    width: 60%;
+    padding: auto;
+    display: grid;
+    margin: 50px 70px;
+    gap:60px 30px;
+    padding: 20px;
+    font-family: sans-serif;
+    grid-template-columns: 1fr 2fr  ;
+    grid-template-rows: 1fr 2fr;
+
+}
+#gap0{
+    padding-left: 60px;
+}
+#radius{
+    border-radius: 30px;
+}
+.name{
+    font: weight 4px;
+}
+.right-con{
+    padding:15px ;
+    
+    padding-left: 50px ;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 0fr 0fr 0fr ;
+    grid-template-rows: 1fr 1fr 1fr 1fr ;
+    float: right;
+    margin-top:-54%;
+    gap:12px;
+    overflow:hidden;
+    width: 42%;
+    
+
+}
+
+.box1{
+    line-height: 25px;
+}
+.meals{
+    margin: 10px;
+    padding: 30px;
+    margin-left: 10px;
+}
+.logo1{
+    padding: 25px;
+}
+.call-action{
+    background-color: chocolate;
+    margin: 3%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+}
+.enquiry-form{
+padding: 20px 20px;
+}
+.client{
+    margin-top: 0px;
+    padding: 0px 0px;
+    
+}
+.input{
+    display: inline-block;
+    padding-left: 15px;
+}
+#img1{
+  margin-left: 45%; 
+}
+#btn{
+    margin: 10px;
+    padding: 10px;
+    width: 45%;
+    border-radius: 30px;
+}
+input{
+    border-radius: 25px;
+}
+#user-values{
+    border-radius: 30px;
+    width: 30%;
+    
+}
+
+.img-radius{
+    border-radius: 40px;
+    margin-left: -6px;
+}
+.btn-4{
+    border-radius: 30px;
+    width: 30%;
+    height: 10%;
+}
+#bkgrnd-color{
+    background-color:#e67e22; ;
+}
+.inner-form{
+    margin-top: 25px;
+    padding: 15px;
+    
